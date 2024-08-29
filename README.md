@@ -29,3 +29,5 @@ Esta es mi primera pagina html del curso con Dev_f
     ```
 
 ## Autor
+
+Creado por [Victor Tapia](https://github.com/ivicwkr) - ¡Si te gusta el proyecto, no dudes en contactarme!
